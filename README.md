@@ -42,6 +42,10 @@ $ cordova platform add android
 $ cordova run
 ```
 
+# Galery 
+
+![alt text](https://image.prntscr.com/image/lmQw4NqsTAegshlsGvSx7Q.png "Description goes here")
+
 
 
 
