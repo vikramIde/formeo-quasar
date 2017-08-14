@@ -27,7 +27,7 @@ $ sudo npm install -g quasar-cli
 ``` bash
 # Clone this project.
 $ git clone https://bitbucket.org/nanocorp/formapp  # I personally use SSH, but not everyone has it setup
-$ cd stock_scan1
+$ cd formapp
 
 # install dependencies
 $ npm install
