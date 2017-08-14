@@ -9,7 +9,7 @@
         <form name="data-storage" v-if="formNotFilled">
             <div class="render-form-editlayout"></div>
         </form>
-        <div v-else >
+        <div v-else>
           <h3>Thanks For filling the form </h3>
         </div>
         <button class="primary" @click="saveData()" >Save</button>
