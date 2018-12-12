@@ -60,10 +60,10 @@ $ cordova run
    
 
 ## 5
-    ![alt text](https://files.gitter.im/vikramIde/sA9Y/WhatsApp-Image-2017-08-14-at-5.30.26-PM-_2_.jpeg "Formeo Form builder on web Admin Pannel")
+   ![alt text](https://files.gitter.im/vikramIde/sA9Y/WhatsApp-Image-2017-08-14-at-5.30.26-PM-_2_.jpeg "Formeo Form builder on web Admin Pannel")
     
 ## 6
-    ![alt text](https://files.gitter.im/vikramIde/i60s/WhatsApp-Image-2017-08-14-at-5.30.26-PM-_3_.jpeg "Formeo Form builder on web Admin Pannel")
+   ![alt text](https://files.gitter.im/vikramIde/i60s/WhatsApp-Image-2017-08-14-at-5.30.26-PM-_3_.jpeg "Formeo Form builder on web Admin Pannel")
 
 
 
